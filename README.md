@@ -9,7 +9,7 @@ Lighter Can Be Better: Rethinking Transformers in Medical Image Segmentation Thr
 * python 3.6
 * pytorch 1.8.0
 * torchvision 0.9.0
-* more please see the requirements.txt
+* more details please see the requirements.txt
 
 ## Datasets
 
@@ -28,7 +28,7 @@ python train_synapse.py
 ```
 ## Testing
 
-Commands for testing
+Commands for training on the Synapse dataset
 ``` 
 python test.py
 ```
