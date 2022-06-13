@@ -2,7 +2,7 @@
 
 This repo is the official implementation for:\
 Lighter Can Be Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning.\
-(The details of our APFormer can be found at the Models directory in this repo or in the paper.)
+(The details of our APFormer can be found at the models directory in this repo or in the paper.)
 
 ## Requirements
 
