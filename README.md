@@ -28,7 +28,7 @@ python train_synapse.py
 ```
 ## Testing
 
-Commands for training on the Synapse dataset
+Commands for testing
 ``` 
 python test.py
 ```
