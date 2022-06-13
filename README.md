@@ -32,6 +32,6 @@ Commands for training on the Synapse dataset
 ``` 
 python test.py
 ```
-## Reference
+## References
 
 1. [vit-pytorch](https://github.com/lucidrains/vit-pytorch)
