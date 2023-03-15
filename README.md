@@ -13,8 +13,9 @@ This repo is the official implementation for:\
 
 ## Datasets
 
-* The ISIC 2018 dataset could be acquired from [here](https://challenge.isic-archive.com/data/)
-* The Synapse dataset could be acquired from [here](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
+* The ISIC 2018 dataset could be acquired from [here](https://challenge.isic-archive.com/data/). 
+* The Synapse dataset could be acquired from [here](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789).  The slice-level Synapse dataset preprocessed by us can be downloaded from [here](https://drive.google.com/file/d/1RxmQP_4grIdFrjwHGevPxmS5aAfVq6VP/view?usp=share_link).\
+((The dataset partitioning of Synapse follows [TransUNet](https://github.com/Beckschen/TransUNet) and the ISIC 2018 is divided randomly.)
 
 ## Training
 
